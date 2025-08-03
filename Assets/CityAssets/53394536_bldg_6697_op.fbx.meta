@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: e642f26ede35ac44399c047a85202fa9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default-Material-0
+    second: {fileID: 2100000, guid: d5d9b5f48f368f04d81a73ab9be73c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallSurfaceTexture_00007060_00007060-52
+    second: {fileID: 2100000, guid: 6de5ad604a1cba746af31c893e60e99f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_BuildingInstallation_1051Texture_00006755_00006755_000001-44
+    second: {fileID: 2100000, guid: 5690fe40ae17ec94991160762f9e29f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_BuildingInstallation_1060Texture_00006821_00006821_000001-39
+    second: {fileID: 2100000, guid: 49f656619ad56ee4291f5fb2a51df2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_BuildingInstallation_1060Texture_00007469_00007469_000001-5
+    second: {fileID: 2100000, guid: 891382fb3b0c1fb419cecc72a89e6af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_BuildingInstallation_1070Texture_00006813_00006813_000001-11
+    second: {fileID: 2100000, guid: fa5671b5dea7bce4389ee13ce2a2de01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_BuildingInstallation_1070Texture_00007084_00007084_000001-2
+    second: {fileID: 2100000, guid: d6efbbafe836a5b4bb75b53a45d8cfcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_BuildingInstallation_1070Texture_00007207_00007207_000001-14
+    second: {fileID: 2100000, guid: fe08f06fbe0ba5845a8816e2335d2a33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00002422_00002422_000001-1
+    second: {fileID: 2100000, guid: 497d10e7d6d7ec94c86b8b23fca66ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00006766_00006766_000001-21
+    second: {fileID: 2100000, guid: 9026d43ef0603b84da6c7e2e8fcb9496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007021_00007021_000001-28
+    second: {fileID: 2100000, guid: 4f84616449ac59248adc10537f5a26ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007060_00007060_000001-53
+    second: {fileID: 2100000, guid: de8a6685124b08b459d1eba1d6a6284e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007134_00007134_000001-33
+    second: {fileID: 2100000, guid: 1d9d21079c66ebe4899ccbe329d8c83d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007222_00007222_000001-46
+    second: {fileID: 2100000, guid: bcbf39cbcae0a154595e020f49a71be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007388_00007388_000001-30
+    second: {fileID: 2100000, guid: b7172b5bbe9683a43be1b3c5bba35cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007404_00007404_000001-6
+    second: {fileID: 2100000, guid: e33c1681acffdc145b638f062f70a85e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007437_00007437_000001-32
+    second: {fileID: 2100000, guid: ddd88b2d5edcc6a449fd3f808a050e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007482_00007482_000001-26
+    second: {fileID: 2100000, guid: 2f0a2e4893efcdd4387acaa04c340b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007537_00007537_000001-42
+    second: {fileID: 2100000, guid: 6ed1e5c5114463c4e80df139e2bde85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_RoofSurfaceTexture_00007684_00007684_000001-10
+    second: {fileID: 2100000, guid: 2e0b46e71ebf7a045b9a69693cd4d8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00002840_00002840_000001-9
+    second: {fileID: 2100000, guid: cbf433bcff4cd134d8ac45e47700116e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00002960_00002960_000001-40
+    second: {fileID: 2100000, guid: 5f1e87f81f58e6740bc5683097cd217b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00006625_00006625_000001-49
+    second: {fileID: 2100000, guid: 2cbebdea711752b4cbf4679b6f786ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00006652_00006652_000001-47
+    second: {fileID: 2100000, guid: 8e6c330e7e28f154bb8754a8811f20d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00006814_00006814_000001-35
+    second: {fileID: 2100000, guid: ae551dcf816e20a479b10dcec295b203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00006970_00006970_000001-7
+    second: {fileID: 2100000, guid: 1e0ad808eb9cc80408de15728e18d968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007012_00007012_000001-17
+    second: {fileID: 2100000, guid: 679328176ff0b434388e3c111678bd75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007020_00007020_000001-16
+    second: {fileID: 2100000, guid: 799b4a5458adc4546ac691db31fff52d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007026_00007026_000001-43
+    second: {fileID: 2100000, guid: 2e87c93ab6c20c945a20e9a5923e3ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007052_00007052_000001-29
+    second: {fileID: 2100000, guid: 05894acf8752c5746992e4b9b8c3f215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007053_00007053_000001-48
+    second: {fileID: 2100000, guid: 16394a382c5ff18448a5b06d8e57be71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007058_00007058_000001-38
+    second: {fileID: 2100000, guid: b5afb921af8d0404bbc62c4c50842295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007065_00007065_000001-12
+    second: {fileID: 2100000, guid: b10a64e155cde8e4bb224a08398bf1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007083_00007083_000001-31
+    second: {fileID: 2100000, guid: ac29ba3a1d764e846b4e0ec1b2aee874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007084_00007084_000001-3
+    second: {fileID: 2100000, guid: 34a9064923d0cd241a218cf79a1677ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007102_00007102_000001-20
+    second: {fileID: 2100000, guid: dc697541af630664b8cf174c51d94509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007113_00007113_000001-36
+    second: {fileID: 2100000, guid: fb1238a3ba838274eb3d7d2c37836390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007114_00007114_000001-37
+    second: {fileID: 2100000, guid: a0e9e91113b7f5c47a3e68a029a8d532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007147_00007147_000001-22
+    second: {fileID: 2100000, guid: d3dbfa60955bedd4f88c99e260ac4760, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007152_00007152_000001-41
+    second: {fileID: 2100000, guid: 98a124d1fe378654480c25fdfa52bae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007160_00007160_000001-8
+    second: {fileID: 2100000, guid: 892870f81b6158e4f9f2370487689ab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007173_00007173_000001-45
+    second: {fileID: 2100000, guid: a1a7f09c04ba46345bae21c34351613a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007184_00007184_000001-18
+    second: {fileID: 2100000, guid: 8c8226b039fa03b4bb683358a202d45d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007215_00007215_000001-27
+    second: {fileID: 2100000, guid: 61125d344121709459330052ee976b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007257_00007257_000001-34
+    second: {fileID: 2100000, guid: a424f1732cdf2be4a8041cb8dc3d8581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007264_00007264_000001-19
+    second: {fileID: 2100000, guid: 5b1e81cd56f21444895d812b9c820748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007338_00007338_000001-50
+    second: {fileID: 2100000, guid: 082264b4157e2b244a745696816a2610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007374_00007374_000001-25
+    second: {fileID: 2100000, guid: b34c0de22b51f0345949cf15f6972f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007499_00007499_000001-15
+    second: {fileID: 2100000, guid: 599a1b70e5b4b0f4397c1325a8a750fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007519_00007519_000001-51
+    second: {fileID: 2100000, guid: 554c0449be9ebf844958f33f99f0bb3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007604_00007604_000001-13
+    second: {fileID: 2100000, guid: 1283b01621f92ba459c4e1d3be2fec67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00007631_00007631_000001-24
+    second: {fileID: 2100000, guid: e58f4358171a88c4c835b3e0b74b18dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00008969_00008969_000001-4
+    second: {fileID: 2100000, guid: e5be6aefd11babb46934e0ce7fa3b700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packed_image_WallSurfaceTexture_00009106_00009106_000001-23
+    second: {fileID: 2100000, guid: ba381918890442c4a8d070c4d9afa03a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
